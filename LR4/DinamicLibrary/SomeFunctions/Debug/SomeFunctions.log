@@ -1,0 +1,20 @@
+﻿Сборка начата 13.04.2017 21:30:23.
+     1>Проект "C:\CSharp\LR4\DinamicLibrary\SomeFunctions\SomeFunctions.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SOMEFUNCTIONS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SOMEFUNCTIONS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt SomeFunctions.cpp stdafx.cpp
+         stdafx.cpp
+         SomeFunctions.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CSharp\LR4\DinamicLibrary\Debug\SomeFunctions.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\CSharp\LR4\DinamicLibrary\Debug\SomeFunctions.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\CSharp\LR4\DinamicLibrary\Debug\SomeFunctions.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\SomeFunctions.obj
+         Debug\stdafx.obj
+            Создается библиотека C:\CSharp\LR4\DinamicLibrary\Debug\SomeFunctions.lib и объект C:\CSharp\LR4\DinamicLibrary\Debug\SomeFunctions.exp
+         SomeFunctions.vcxproj -> C:\CSharp\LR4\DinamicLibrary\Debug\SomeFunctions.dll
+     1>Сборка проекта "C:\CSharp\LR4\DinamicLibrary\SomeFunctions\SomeFunctions.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.85

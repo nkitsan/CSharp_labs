@@ -1,0 +1,6 @@
+C:\CSharp\LR4\WorkWithUnmanagedCode\WorkWithUnmanagedCode\bin\Debug\WorkWithUnmanagedCode.exe.config
+C:\CSharp\LR4\WorkWithUnmanagedCode\WorkWithUnmanagedCode\bin\Debug\WorkWithUnmanagedCode.exe
+C:\CSharp\LR4\WorkWithUnmanagedCode\WorkWithUnmanagedCode\bin\Debug\WorkWithUnmanagedCode.pdb
+C:\CSharp\LR4\WorkWithUnmanagedCode\WorkWithUnmanagedCode\obj\Debug\WorkWithUnmanagedCode.csprojResolveAssemblyReference.cache
+C:\CSharp\LR4\WorkWithUnmanagedCode\WorkWithUnmanagedCode\obj\Debug\WorkWithUnmanagedCode.exe
+C:\CSharp\LR4\WorkWithUnmanagedCode\WorkWithUnmanagedCode\obj\Debug\WorkWithUnmanagedCode.pdb

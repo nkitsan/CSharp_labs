@@ -1,0 +1,6 @@
+C:\CSharp\LR7\TaskRationalNumbers\TaskRationalNumbers\bin\Debug\TaskRationalNumbers.exe.config
+C:\CSharp\LR7\TaskRationalNumbers\TaskRationalNumbers\bin\Debug\TaskRationalNumbers.exe
+C:\CSharp\LR7\TaskRationalNumbers\TaskRationalNumbers\bin\Debug\TaskRationalNumbers.pdb
+C:\CSharp\LR7\TaskRationalNumbers\TaskRationalNumbers\obj\Debug\TaskRationalNumbers.csprojResolveAssemblyReference.cache
+C:\CSharp\LR7\TaskRationalNumbers\TaskRationalNumbers\obj\Debug\TaskRationalNumbers.exe
+C:\CSharp\LR7\TaskRationalNumbers\TaskRationalNumbers\obj\Debug\TaskRationalNumbers.pdb

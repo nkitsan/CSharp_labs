@@ -1,0 +1,6 @@
+C:\CSharp\LR4\KeyLog\KeyLog\bin\Debug\KeyLog.exe.config
+C:\CSharp\LR4\KeyLog\KeyLog\obj\Debug\KeyLog.csprojResolveAssemblyReference.cache
+C:\CSharp\LR4\KeyLog\KeyLog\bin\Debug\KeyLog.exe
+C:\CSharp\LR4\KeyLog\KeyLog\bin\Debug\KeyLog.pdb
+C:\CSharp\LR4\KeyLog\KeyLog\obj\Debug\KeyLog.exe
+C:\CSharp\LR4\KeyLog\KeyLog\obj\Debug\KeyLog.pdb
