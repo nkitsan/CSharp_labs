@@ -147,9 +147,15 @@ namespace TaskRationalNumbers
 
         public static bool TryParse(string input, RationalNumber c)
         {
-            if ((c.Numerator == 0) && (input[0] != '0'))
+            if (!Regex.IsMatch(input, "^-?[0-9]+(/)?[0-9]+$"))
+            {
                 return false;
-            else return true;
+            }
+            else
+            {
+                c = Parse(input);
+                return true;
+            }
         }
 
         public static int GreatestCommonDivisor(int a, int b)
