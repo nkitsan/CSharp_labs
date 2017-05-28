@@ -12,7 +12,6 @@ namespace CowsAndBullS
                 Clear();
                 GameFunctions StartGame = new GameFunctions();
                 StartGame.GenerateNumber();
-                WriteLine(StartGame.TheNumber);
                 WriteLine("Welcome to game Bulls and Cows!\nYou should guess 4-digit number. Digits can\'t repeat.\nWrite number:");
                 while(StartGame.TheNumber!=StartGame.UserAnswer)
                 {
