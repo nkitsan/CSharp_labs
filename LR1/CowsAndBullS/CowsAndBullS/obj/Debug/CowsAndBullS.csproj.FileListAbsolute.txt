@@ -16,3 +16,6 @@ C:\CSharp\LR1\CowsAndBullS\CowsAndBullS\obj\Debug\CowsAndBullS.pdb
 C:\CSharp\LR1\CowsAndBullS\CowsAndBullS\bin\Debug\CowsAndBullS.exe
 C:\CSharp\LR1\CowsAndBullS\CowsAndBullS\bin\Debug\CowsAndBullS.pdb
 C:\CSharp\LR1\CowsAndBullS\CowsAndBullS\obj\Debug\CowsAndBullS.csprojResolveAssemblyReference.cache
+C:\CSharp_labs\LR1\CowsAndBullS\CowsAndBullS\bin\Debug\CowsAndBullS.exe.config
+C:\CSharp_labs\LR1\CowsAndBullS\CowsAndBullS\obj\Debug\CowsAndBullS.exe
+C:\CSharp_labs\LR1\CowsAndBullS\CowsAndBullS\obj\Debug\CowsAndBullS.pdb
